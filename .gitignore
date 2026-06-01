@@ -1,0 +1,3 @@
+*.tsv
+__pycache__
+drug_database.db
