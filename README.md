@@ -42,3 +42,6 @@ is encouraged.
 We expect the challenge to take around 3 hours of focussed work. If you feel you will exceed this time frame
 by a lot, consider resorting to simplifications instead of spending too much time or let alone giving up.
 We will focus on your thought process and development practices.
+
+## Solution
+Please checkout: [solution.md](https://github.com/Arslan-Siraj/drug-target-repo/blob/main/solution.md)
