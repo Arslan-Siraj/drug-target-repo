@@ -166,3 +166,5 @@ uvicorn api:app --reload
 python run_API.py --target ENSG00000149295 --limit 20 # From API
 streamlit run webapp.py # Via WebApp
 ```
+## Solution
+Please checkout: [solution.md](https://github.com/Arslan-Siraj/drug-target-repo/blob/main/solution.md)
